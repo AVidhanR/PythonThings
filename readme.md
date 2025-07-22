@@ -2,16 +2,11 @@
 
 **Master Python from Basics to Advanced with Real-World Projects**
 
-> **Course Link**: [hitesh.ai](https://hitesh.ai)  
-> **Instructor**: Hitesh Choudhary
-
----
 
 ## 📚 Course Overview
 
 This comprehensive Python course takes you from absolute beginner to advanced Python developer through hands-on projects and practical examples. Learn Python fundamentals, advanced concepts, and build real-world applications that showcase your skills.
 
----
 
 ## 🎯 What You'll Learn
 
@@ -35,8 +30,6 @@ This comprehensive Python course takes you from absolute beginner to advanced Py
 - **Web Scraping** - Extract data from websites and APIs
 - **Automation** - Automate repetitive tasks and file operations
 - **API Development** - Create and consume REST APIs
-
----
 
 ## 📁 Course Structure
 
@@ -70,7 +63,6 @@ This comprehensive Python course takes you from absolute beginner to advanced Py
 - Global Interpreter Lock (GIL) understanding
 - Asynchronous programming with asyncio
 
----
 
 ## 🚀 Hands-On Projects
 
@@ -109,7 +101,6 @@ This comprehensive Python course takes you from absolute beginner to advanced Py
 - User interface with templates
 - Visit tracking and analytics
 
----
 
 ## 🛠️ Technologies & Tools Covered
 
@@ -123,7 +114,6 @@ This comprehensive Python course takes you from absolute beginner to advanced Py
 - **Threading/Multiprocessing** - Concurrency
 - **Asyncio** - Asynchronous programming
 
----
 
 ## 📋 Prerequisites
 
@@ -132,7 +122,6 @@ This comprehensive Python course takes you from absolute beginner to advanced Py
 - Windows, macOS, or Linux operating system
 - Internet connection for downloading packages
 
----
 
 ## 🎓 Learning Outcomes
 
@@ -149,7 +138,6 @@ By the end of this course, you will be able to:
 ✅ **Use advanced Python features effectively**  
 ✅ **Deploy real-world Python applications**
 
----
 
 ## 🏆 Course Highlights
 
@@ -160,7 +148,6 @@ By the end of this course, you will be able to:
 - **Hands-On Challenges** - Daily exercises to reinforce learning
 - **Real-World Applications** - Solve actual problems with Python
 
----
 
 ## 📖 How to Use This Repository
 
@@ -170,7 +157,6 @@ By the end of this course, you will be able to:
 4. **Build projects** in the challenges section
 5. **Practice regularly** with the provided examples
 
----
 
 ## 🎯 Target Audience
 
@@ -180,22 +166,16 @@ By the end of this course, you will be able to:
 - **Career Changers** - Transitioning to software development
 - **Hobbyists** - Interested in automation and data analysis
 
----
-
-## 📞 Support & Community
-
-- **Course Platform**: [hitesh.ai](https://hitesh.ai)
-- **Instructor**: Hitesh Choudhary
-- **Community**: Join the course community for discussions and support
-
----
 
 ## 📄 License
 
 This course material is provided for educational purposes. Please respect the instructor's intellectual property and course terms.
 
----
 
 **Ready to start your Python journey?** 🚀
 
 *Begin with the basics in `00_python/` and work your way through to building complete applications!*
+
+---
+
+...
