@@ -180,4 +180,12 @@ This course material is provided for educational purposes. Please respect the in
 
 _Begin with the basics in `00_python/` and work your way through to building complete applications!_
 
----
+## Frequently used Commands
+
+Initialize a virtual environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate  # On Windows
+```
