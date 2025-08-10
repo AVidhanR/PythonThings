@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "15-langextract"
+version = "1.1.0"
+description = "This directory contains lang_extract package demonstration using gemini api key"
+authors = ["AVidhanR <itsvidhanreddy@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langextract = "^1.0.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
