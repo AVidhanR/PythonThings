@@ -39,3 +39,28 @@ It is not a general-purpose NLP suite; it avoids embedding full parsing, semanti
 ## Summary
 
 By focusing on precise multilingual segmentation and metadata fidelity, langextract streamlines the early stages of multilingual text processing pipelines, reducing noise and ambiguity before deeper analysis or model ingestion.
+
+---
+
+## Steps to get started into the `langextract` 
+
+```sh
+# zero
+# cd into the 15_langextract/ directory!
+
+# first
+python -m venv .venv
+
+# second
+source .venv/bin/activate
+# .venv/Scripts/activate - for windows
+
+# third
+pip install poetry
+
+# fourth
+poetry install
+
+# to run the file
+python main.py
+```
