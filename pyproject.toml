@@ -1,0 +1,18 @@
+[project]
+name = "python-things"
+version = "v1.1.0"
+description = "This toml file contains all the required packages I will be using in this repo."
+authors = [
+    {name = "A Vidhan Reddy",email = "itsvidhanreddy@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langextract (>=1.0.5,<2.0.0)",
+    "requests (>=2.32.4,<3.0.0)"
+]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
