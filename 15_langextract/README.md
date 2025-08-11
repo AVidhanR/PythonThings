@@ -1,6 +1,6 @@
-# lanextract
+# langextract
 
-lanextract is a lightweight toolkit for detecting, segmenting, and extracting human language content from mixed or noisy textual sources. It focuses on turning heterogeneous inputs (logs, scraped pages, transcripts, blended multilingual blocks) into clean, analyzable language segments with associated metadata that downstream pipelines can consume.
+langextract is a lightweight toolkit for detecting, segmenting, and extracting human language content from mixed or noisy textual sources. It focuses on turning heterogeneous inputs (logs, scraped pages, transcripts, blended multilingual blocks) into clean, analyzable language segments with associated metadata that downstream pipelines can consume.
 
 ## Key Features
 
@@ -30,7 +30,7 @@ lanextract is a lightweight toolkit for detecting, segmenting, and extracting hu
 
 ## Goals
 
-lanextract emphasizes accuracy on short spans, transparent confidence reporting, and ease of extension without imposing a heavy runtime footprint.
+langextract emphasizes accuracy on short spans, transparent confidence reporting, and ease of extension without imposing a heavy runtime footprint.
 
 ## Non-Goals
 
@@ -38,4 +38,4 @@ It is not a general-purpose NLP suite; it avoids embedding full parsing, semanti
 
 ## Summary
 
-By focusing on precise multilingual segmentation and metadata fidelity, lanextract streamlines the early stages of multilingual text processing pipelines, reducing noise and ambiguity before deeper analysis or model ingestion.
+By focusing on precise multilingual segmentation and metadata fidelity, langextract streamlines the early stages of multilingual text processing pipelines, reducing noise and ambiguity before deeper analysis or model ingestion.
